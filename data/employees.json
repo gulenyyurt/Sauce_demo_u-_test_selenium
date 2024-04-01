@@ -1,0 +1,16 @@
+{
+    "employees": [
+      {
+        "firstName": "Gulen",
+        "lastName": "yesilyurt",
+        "age": 31,
+        "position": "Software Engineer"
+      },
+      {
+        "firstName": "Busra",
+        "lastName": "Bektas",
+        "age": 34,
+        "position": "Data Scientist"
+      }
+    ]
+  }
